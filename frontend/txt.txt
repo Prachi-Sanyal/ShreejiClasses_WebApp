@@ -1,0 +1,95 @@
+import React from 'react';
+import { MdEmail } from 'react-icons/md';
+
+const Newsletter = () => {
+  return (
+    <section className="section-sm lg:section-lg bg-green min-h-[120px]">
+      <div className="container mx-auto">
+        <div className="border-[8px] border-green-300 rounded-lg text-center p-8">
+          <h4 className="text-[26px] text-white font-bold mb-[14px]">Subscribe Our Newsletter</h4>
+          <p className="text-green-200 mb-12">Subscribe to our newsletter for further updates about us</p>
+
+          <form className="max-w-[752px] mx-auto relative flex flex-col lg:flex-row gap-y-6 lg:p-0 gap-x-4">
+            <div className="w-full relative flex">
+              <div className="absolute left-2 h-full w-12 flex justify-center items-center text-2xl text-green-300">
+                <MdEmail />
+              </div>
+              <input
+                className="form-control w-full border border-green-300 bg-transparent outline-none placeholder:text-green-200 text-white pl-[60px]"
+                placeholder="Enter your email address"
+                type="email"
+              />
+            </div>
+
+            <button className="btn btn-lg btn-orange text-white w-full lg:max-w-[180px]">Get Started</button>
+          </form>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default Newsletter;
+
+
+
+
+
+
+
+
+
+
+
+
+
+import React from 'react';
+
+import Logo from '../assets/img/logo.png'
+import {FaInstagram, FaFacebook, FaMailBulk, FaPhone} from 'react-icons/fa'
+const Footer = () => {
+  return(
+    <footer className='pb-[70px]'>
+      <div className="container mx-auto">
+        <div className='flex flex-col justify-between items-center 
+        lg:flex-row gap-y-5'>
+          <a href='#'>
+            <img src={Logo} alt='' />
+          </a>
+          <p>&copy;2024.All rights reserved.</p>
+          <div className='flex gap-x-4 text-orange text-lg'>
+            <div className='w-[50px] h-[50px] bg-white
+            rounded-full flex justify-center items-center
+            shadow-primary cursor-pinter hover:text-paragraph transition'>
+              <FaInstagram /></div>
+
+              <div className='w-[50px] h-[50px] bg-white
+            rounded-full flex justify-center items-center
+            shadow-primary cursor-pinter hover:text-paragraph transition'>
+              <FaFacebook /></div>
+
+              <div className='w-[50px] h-[50px] bg-white
+            rounded-full flex justify-center items-center
+            shadow-primary cursor-pinter hover:text-paragraph transition'>
+              <FaMailBulk /></div>
+
+              <div className='w-[50px] h-[50px] bg-white
+            rounded-full flex justify-center items-center
+            shadow-primary cursor-pinter hover:text-paragraph transition'>
+              <FaPhone /></div>
+
+
+
+              
+
+
+
+          </div>
+        </div>
+      </div>
+    </footer>
+  )
+};
+
+export default Footer;
+

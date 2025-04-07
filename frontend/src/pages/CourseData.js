@@ -1,0 +1,77 @@
+import cd1 from '../assets/img/courses/cd1.jpg'
+import cd2 from '../assets/img/courses/cd2.jpeg'
+import cd3 from '../assets/img/courses/cd3.jpeg'
+import cd4 from '../assets/img/courses/olympiad.jpg'
+
+
+
+
+const courses=[
+    {
+      "id": "679918598ef8c3d56f07c432",
+      "title": "Grade 6-10",
+      "description": "Our comprehensive program focuses on building a strong foundation in Mathematics, Science, English, Social Studies, and more. It is designed to prepare students for academic success in middle school and beyond.",
+      "image": cd1,
+      "duration": "1 Year",
+      "eligibility": "Open to all students of Grade 6-10",
+      "batchDays": "Everyday",
+      "class": "6-10",
+      "boards": "CBSE, ICSE, State Board",
+      "courseDetails": {
+        "subjects": ["Mathematics", "Science", "English", "Social Studies"],
+        "focusedSubjects": ["Mathematics", "Science"]
+      },
+      "detailedDescription": "The Grade 6-10 program is designed to help students strengthen their foundational knowledge in core subjects like Mathematics, Science, English, and Social Studies. These years are crucial in building the concepts that will be needed in later years of schooling. In Mathematics, we focus on key topics like algebra, geometry, and number systems, while in Science, we introduce students to the wonders of the physical, biological, and chemical worlds. English skills are honed with an emphasis on grammar, reading comprehension, and creative writing, while Social Studies gives students a comprehensive view of history, geography, and civics. With our approach, we not only aim to prepare students for exams but also help them develop critical thinking skills that will aid them in later stages of education."
+    },
+    {
+      "id": "6787ecaedd722c91c02326fd",
+      "title": "Grade 11-12 Science",
+      "description": "We offer specialized coaching for Science streams like Physics, Chemistry, and Biology, preparing students for board exams and competitive entrances. This program emphasizes deep conceptual understanding and exam strategies.",
+      "image": cd2,
+      "duration": "1 Year",
+      "eligibility": "Students in Grade 11-12 Science stream",
+      "batchDays": "Everyday",
+      "class": "11-12",
+      "boards": "CBSE, ICSE, State Board",
+      "courseDetails": {
+        "subjects": ["Physics", "Chemistry", "Biology"],
+        "focusedSubjects": ["Physics", "Chemistry", "Biology"]
+      },
+      "detailedDescription": "The Grade 11-12 Science program is carefully designed for students pursuing the Science stream, with a focus on Physics, Chemistry, and Biology. These subjects are key for students preparing for board exams and competitive exams like JEE, NEET, and other engineering or medical entrance exams. Our program focuses on in-depth understanding of the concepts with practical applications. In Physics, students delve into mechanics, electricity, magnetism, and modern physics. Chemistry includes physical, inorganic, and organic chemistry, while Biology explores cellular biology, genetics, ecology, and human anatomy. We ensure a balanced approach between theoretical learning and problem-solving to ensure that students are well-equipped for the challenges they will face in both exams and real-world applications."
+    },
+    {
+      "id": "6787ecbedd722c91c02326ff",
+      "title": "GUJCET/NEET/JEE",
+      "description": "Our intensive coaching programs for GUJCET, NEET, and JEE entrance exams help students crack these competitive exams with high scores. The course includes mock tests, previous year papers, and personalized guidance to ensure success.",
+      "image": cd3,
+      "duration": "6 Months",
+      "eligibility": "Students preparing for GUJCET, NEET, or JEE exams",
+      "batchDays": "Monday, Wednesday, Friday",
+      "class": "11-12",
+      "boards": "CBSE, ICSE, State Board",
+      "courseDetails": {
+        "subjects": ["Physics", "Chemistry", "Mathematics", "Biology"],
+        "focusedSubjects": ["Physics", "Chemistry", "Mathematics"]
+      },
+      "detailedDescription": "Our GUJCET/NEET/JEE coaching program is an intensive 6-month course aimed at helping students achieve high scores in their competitive entrance exams. With specialized coaching in Physics, Chemistry, Mathematics, and Biology, we ensure that students have a strong conceptual understanding and are well-prepared to tackle difficult questions in the entrance exams. The course includes regular mock tests, previous year question papers, and personalized guidance to identify and improve weak areas. We focus not only on clearing concepts but also on time management, exam strategies, and stress management, which are crucial for success in these competitive exams. Our approach ensures that students develop the skills necessary to perform under pressure and secure top ranks."
+    },
+    {
+      "id": "6787eccfdd722c91c0232701",
+      "title": "SOF Olympiad",
+      "description": "We provide dedicated training for SOF Olympiads like NSO, IMO, IEO, and more, helping students excel in Science Olympiads. The course helps students develop a competitive edge for school-level science and mathematics competitions.",
+      "image": cd4,
+      "duration": "6 Months",
+      "eligibility": "Open to all students interested in Olympiad exams",
+      "batchDays": "Monday, Wednesday, Friday",
+      "class": "8-10",
+      "boards": "CBSE, ICSE, State Board",
+      "courseDetails": {
+        "subjects": ["Mathematics", "Science", "Logical Reasoning"],
+        "focusedSubjects": ["Mathematics", "Science"]
+      },
+      "detailedDescription": "The SOF Olympiad training program is designed to help students excel in a variety of Olympiad exams like the National Science Olympiad (NSO), International Mathematics Olympiad (IMO), International English Olympiad (IEO), and more. These competitions provide a platform for students to test their skills against the best minds in the country and the world. Our course focuses on building problem-solving skills in Mathematics and Science, along with strengthening Logical Reasoning abilities. The Olympiad exams are not only about academic excellence but also about developing the ability to think critically and solve complex problems under pressure. Our training helps students sharpen these skills, providing them with a competitive edge in these prestigious exams and helping them build confidence for future academic challenges."
+    }
+  ]
+
+
+  export default courses; // Export for use in other files

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "shreeji-performance-report",
+  "private_key_id": "dd507b8c476c4d151a8a31a42517d6f7481a7fb5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0pyRAheyKvqs+\nFkW1horosXf6hmWNOqLbreAnmbsJWxzxdtZuWDX9Y1VWqyEkbSbwwhg9IQzRR2Sf\nlVMzJIsH+pkqbPwFIepE8TJ/vRW6MltWnKmwKBnmXEsrp5K5K8zfqD2iFQvtmZ7l\nr+xlXPY0ZCQuYknudRL3ocpRypbBQDaNazF41iReWuHAZGogNNOjQ/NAybBcX/PE\ngs7EmR8AUFtmKbt9zXX7xcZt/5aEKOIXf/BUZ/J6Wp+1sJXoPKb4eKmWu+hdYV8g\nB4GYiNzBZEtYWcgq4TcJ7ylXYTqLcXgDJWYPuHd9QRP/VbOcjLK8V7RUGoSkW2mJ\nt192ToOjAgMBAAECggEAPDfy96cs4FsKjhmyhv4gU8zEp7ghJeDD5OKi89Bk7ot2\nrG7mr8WryZlRGyDUXWYdMuggWFAqC6D2w9Ns9oFZ7wD0CZZms/dINk8IfFg1Y+nh\nVI/IaLYVXBqr3BNx71PQaUWVte+6GCu7MelgrbE9SN2Qyf1tk5VnCzDdVkJn2mbT\n54e+fU0cpqK92YPIvt9iSERJy0ZFd2KVhNyPImpCtIR6I5Fw1KjP3qYr282twmTv\nsccVG4rwPGKXjB2IYV/2Od+W4yggOR1iOsp2J3ALIqXeWoQjyRsOSE94Ho/+LabX\nZ9cx/T7ig1tjwcrRKgAx64PXzChpZnZYnnZghQCw0QKBgQDZHvlQOWsZvltnbwfd\nZd5l4OvdsW/1b2DauGjvBkr0rSeguuGTy7EXEJEXLYgjI1JmynFcdsadc7cZhn/w\nyXmfOxcyVStsXenqHZrHtK0pNA5JaciPEFkHwoSDQjdiCWOPcuycKD+BG17o4/kS\nrWZ2ayzCACBTHNVnhkhpNxddVQKBgQDVAG/LNHRSsjEoeTtWNMsVYhUf5pTaPchQ\nw1Q1TLbeJWuKLYZmA1LO5/KWPrzaJdDbFCqw/Ybx5XFMx4Q2+uZIqV4s/+f1LMxI\nUEALZ4YUgIEYlzxs3GQlZWUo1gwAhM7T4lZYLwnH+YVGfZojlazbgMtJI0vyN2Vl\nBjvzsxidFwKBgQCllofR9ViHM7SGOBmpco2g6V85np+icaVOaiItWYFFBeIZJS3x\nCAIxcwMUyDbxhXjMyEyYlkV3w866+ucMfrvxAqH4Uxhg92b0lEt9T4BY0kirGLBK\n287qqiFh8dhHPp3dw2pM1i1Ii9VgjK1i3zgrzCVAd9QvTug6oiELjWaWWQKBgBkF\nwxxZHi0018eMbmcTLqRlcFveB7CXv3eVasgUKgtw0/BYpshHLaw23W2/EwqBlMaX\n2OgP8JFsReIiMisPUIxKsVCSA5ru11TLcKqmT78K1Z+g7K1ROsaV4ctpUeGhuHZ1\nyXT0ma6PZpPAX6I8jCEBQWBnMB3VWikDEXnwmTyjAoGAXBQ9dGre8kGNT+xkfgrm\nMn1q2uiTL7bNnC7ZadWs+ovesR7YDDfZ6CMtWbfc6Q83UmC0idOd32i6Ew4LiJIz\nqPx5n7S6tboC8GT1zIHMIR9bqJoENy8QboUrpipeY+pjRKPE4w1fdeDwV5r+wClI\nE6hGMGZCje9S4ye3kKwT1VU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "shreeji-classes@shreeji-performance-report.iam.gserviceaccount.com",
+  "client_id": "109361402625516402496",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shreeji-classes%40shreeji-performance-report.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,74 @@
+
+.button-primary {
+    background-color: #3b82f6; 
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+  }
+  
+  .button-primary:hover {
+    background-color: #2563eb; 
+    cursor: pointer;
+  }
+  
+  .button-primary:disabled {
+    background-color: #d1d5db; 
+    cursor: not-allowed;
+  }
+  
+  .button-success {
+    background-color: #10b981; 
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem;
+    font-weight: bold;
+  }
+  
+  .button-success:hover {
+    background-color: #059669; 
+    cursor: pointer;
+  }
+  
+  .button-danger {
+    background-color: #ef4444; 
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem;
+    font-weight: bold;
+  }
+  
+  .button-danger:hover {
+    background-color: #dc2626; 
+    cursor: pointer;
+  }
+  
+  .button-pending {
+    background-color: #f59e0b; 
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem;
+    font-weight: bold;
+  }
+  
+  .button-pending:hover {
+    background-color: #d97706; 
+    cursor: pointer;
+  }
+  
+  .button-pagination {
+    background-color: #3b82f6; 
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem;
+    font-weight: bold;
+    width: 100px;
+  }
+  
+  .button-pagination:hover {
+    background-color: #2563eb; 
+    cursor: pointer;
+  }
+  
