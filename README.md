@@ -191,6 +191,7 @@ Third-Party Services
 ### Landing Page
 
 ![Landing Page](images/landing-page.png)
+![Landing Page](images/inquiry.png)
 
 ### Admin Dashboard
 
@@ -203,6 +204,7 @@ Third-Party Services
 ### Student Dashboard
 
 ![Student Dashboard](images/student-dashboard.png)
+![Student Dashboard](images/student-analytics.png)
 
 ### Attendance Management
 
@@ -211,18 +213,18 @@ Third-Party Services
 ### Fee Management
 
 ![Fee Management](images/fee-management.png)
+![Fee Management](images/fee2.png)
+![Fee Management](images/fee3.png)
 
 ### Study Material Module
 
 ![Study Materials](images/study-materials.png)
 
-### Quiz Module
-
-![Quiz](images/quiz-module.png)
-
 ### Notification System
 
 ![Notifications](images/notifications.png)
+![Notifications](images/notifications2.png)
+
 
 ---
 
